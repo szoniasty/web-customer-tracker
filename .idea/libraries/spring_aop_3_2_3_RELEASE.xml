@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-aop-3.2.3.RELEASE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../ASPECTJ/spring-aop-3.2.3.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

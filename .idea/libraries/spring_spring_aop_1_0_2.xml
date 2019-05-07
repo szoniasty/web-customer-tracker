@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="spring:spring-aop:1.0.2" type="repository">
+    <properties maven-id="spring:spring-aop:1.0.2" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/spring-aop-1.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

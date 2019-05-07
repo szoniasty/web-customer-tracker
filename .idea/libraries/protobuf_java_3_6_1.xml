@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="protobuf-java-3.6.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../JDBC/mysql-connector-java-8.0.15/lib/protobuf-java-3.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JDBC/mysql-connector-java-8.0.15/lib/c3p0-0.9.1-pre6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JDBC/mysql-connector-java-8.0.15/lib/slf4j-api-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JDBC/mysql-connector-java-8.0.15/mysql-connector-java-8.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JDBC/mysql-connector-java-8.0.15/lib/jboss-common-jdbc-wrapper.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../JDBC/mysql-connector-java-8.0.15/lib/c3p0-0.9.1-pre6.src.zip!/c3p0-0.9.1-pre6.src/dbms/oracle-thin/build/apidocs" />
+      <root url="jar://$PROJECT_DIR$/../JDBC/mysql-connector-java-8.0.15/lib/c3p0-0.9.1-pre6.src.zip!/c3p0-0.9.1-pre6.src/dbms/oracle-thin/dist/doc/apidocs-oracle-thin" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../JDBC/mysql-connector-java-8.0.15/lib/jboss-common-jdbc-wrapper-src.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JDBC/mysql-connector-java-8.0.15/lib/c3p0-0.9.1-pre6.src.zip!/c3p0-0.9.1-pre6.src/dbms/oracle-thin/src/classes" />
+      <root url="jar://$PROJECT_DIR$/../JDBC/mysql-connector-java-8.0.15/lib/c3p0-0.9.1-pre6.src.zip!/c3p0-0.9.1-pre6.src/relproj/debuggen/src/classes" />
+      <root url="jar://$PROJECT_DIR$/../JDBC/mysql-connector-java-8.0.15/lib/c3p0-0.9.1-pre6.src.zip!/c3p0-0.9.1-pre6.src/src/classes" />
+      <root url="jar://$PROJECT_DIR$/../JDBC/mysql-connector-java-8.0.15/lib/c3p0-0.9.1-pre6.src.zip!/c3p0-0.9.1-pre6.src/src/dist-static/examples" />
+    </SOURCES>
+  </library>
+</component>
